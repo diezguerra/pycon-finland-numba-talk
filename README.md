@@ -2,5 +2,6 @@
 
 IPython notebooks and slides from the PyCon Finland Numba talk
 
-## Slides
-* [My first numba](http://diezguerra.github.io/pycon-finland-numba-talk)
+## Notebooks (IPython NBViewer)
+* [Caveats](http://goo.gl/tKXqyG)
+* [Examples](http://goo.gl/Gd21Pj)
